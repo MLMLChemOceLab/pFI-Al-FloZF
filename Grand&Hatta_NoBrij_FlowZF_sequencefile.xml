@@ -1,0 +1,2428 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>23.1f272</Version>
+<String>
+<Name>version</Name>
+<Val>5.2</Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>59</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>AUTO-SFC_Publication_NoBrij</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>name sample</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>'sample name'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'Autocal_SFC'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>name sample</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>PMT FC_AUTO_SFC</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>AutoSampler</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>2</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Sampler Valve-N go to sample</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Sampler Valve-N</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>port #</Val>
+</String>
+<String>
+<Name></Name>
+<Val>6</Val>
+</String>
+<String>
+<Name></Name>
+<Val>go to port</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>3</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Sampler Pump-N turn on</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Sampler Pump-N</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>turn on</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>3</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>time (s)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>5</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>3</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Sampler Pump-N turn off</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Sampler Pump-N</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>turn off</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>3</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>5</Dimsize>
+<String>
+<Name></Name>
+<Val>Sample chanel flush</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>3</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>2</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>COV-6 go to  Sample</Val>
+</String>
+<String>
+<Name></Name>
+<Val>COV-6</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>port #</Val>
+</String>
+<String>
+<Name></Name>
+<Val>4</Val>
+</String>
+<String>
+<Name></Name>
+<Val>go to port</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>3</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump2 aspirate</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume (킠), flow rate (킠/s), hold all (0/1)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>500,100,1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>aspirate</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>3</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Go to Waste</Val>
+</String>
+<String>
+<Name></Name>
+<Val>COV-6</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>port #</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>go to port</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>3</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump2 dispense</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume (킠), flow rate (킠/s), hold all (0/1)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1000,200,1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>dispense</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>3</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>time (s)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>5</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>3</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>Set_Variables</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>2</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>initialize std counter</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val>n</Val>
+</String>
+<String>
+<Name></Name>
+<Val>value or expression</Val>
+</String>
+<String>
+<Name></Name>
+<Val>0</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>3</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>set diluent flow rate</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val>DilFR</Val>
+</String>
+<String>
+<Name></Name>
+<Val>value or expression</Val>
+</String>
+<String>
+<Name></Name>
+<Val>[2 30 60 90 120]</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>3</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>set volume diluent</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val>DilVol</Val>
+</String>
+<String>
+<Name></Name>
+<Val>value or expression</Val>
+</String>
+<String>
+<Name></Name>
+<Val>[10 150 300 450 600]</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>3</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>5</Dimsize>
+<String>
+<Name></Name>
+<Val>Analysis</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>5</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>2</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>set</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val>n</Val>
+</String>
+<String>
+<Name></Name>
+<Val>value or expression</Val>
+</String>
+<String>
+<Name></Name>
+<Val>n+1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>3</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>pFI-Al_PMT</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>3</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>Flush FC</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>4</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>7</Dimsize>
+<String>
+<Name></Name>
+<Val>Go to FC</Val>
+</String>
+<String>
+<Name></Name>
+<Val>COV-6</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>port #</Val>
+</String>
+<String>
+<Name></Name>
+<Val>2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>go to port</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1-1</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>5</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump1 dispense</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump1</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume (킠), flow rate (킠/s), hold all (0/1)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1000,200,1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>dispense</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>5</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump2 dispense</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume (킠), flow rate (킠/s), hold all (0/1)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1000,200,1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>dispense</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>5</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>7</Dimsize>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>time (s)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>5</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+<String>
+<Name></Name>
+<Val>5-1</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>5</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>time (s)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>4</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>7</Dimsize>
+<String>
+<Name></Name>
+<Val>COV-6 go to  Sample</Val>
+</String>
+<String>
+<Name></Name>
+<Val>COV-6</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>port #</Val>
+</String>
+<String>
+<Name></Name>
+<Val>4</Val>
+</String>
+<String>
+<Name></Name>
+<Val>go to port</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1-1</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>4</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump2 aspirate</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume (킠), flow rate (킠/s), hold all (0/1)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>600,120,0</Val>
+</String>
+<String>
+<Name></Name>
+<Val>aspirate</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>4</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump1 dispense</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump1</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume (킠), flow rate (킠/s), hold all (0/1)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>DilVol(n), DilFR(n),1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>dispense</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>4</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>time (s)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>4</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>7</Dimsize>
+<String>
+<Name></Name>
+<Val>COV-6 go to Lumo</Val>
+</String>
+<String>
+<Name></Name>
+<Val>COV-6</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>port #</Val>
+</String>
+<String>
+<Name></Name>
+<Val>3</Val>
+</String>
+<String>
+<Name></Name>
+<Val>go to port</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1-1</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>4</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump1 aspirate</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump1</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume (킠), flow rate (킠/s), hold all (0/1)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>600,120,0</Val>
+</String>
+<String>
+<Name></Name>
+<Val>aspirate</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>4</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump2 dispense</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume (킠), flow rate (킠/s), hold all (0/1)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>dil_vol_Lumo,dil_flowrate_Lumo,1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>dispense</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>4</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>7</Dimsize>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>time (s)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>45</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+<String>
+<Name></Name>
+<Val>5-1</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>4</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector start acquire</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>request period (seconds)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>0.5</Val>
+</String>
+<String>
+<Name></Name>
+<Val>start acquire</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>4</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>7</Dimsize>
+<String>
+<Name></Name>
+<Val>COV-6 go to Waste</Val>
+</String>
+<String>
+<Name></Name>
+<Val>COV-6</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>port #</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>go to port</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1-1</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>4</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump2 dispense</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume (킠), flow rate (킠/s), hold all (0/1)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1000,200,1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>dispense</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>4</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>time (s)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>5</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>4</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>Without Brij mixing step</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>4</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>7</Dimsize>
+<String>
+<Name></Name>
+<Val>COV-6 go to FC</Val>
+</String>
+<String>
+<Name></Name>
+<Val>COV-6</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>port #</Val>
+</String>
+<String>
+<Name></Name>
+<Val>2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>go to port</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1-1</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>5</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>7</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump1 dispense</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump1</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume (킠), flow rate (킠/s), hold all (0/1)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>300,25,1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>dispense</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1-1</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>5</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>7</Dimsize>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>time (s)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>10</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+<String>
+<Name></Name>
+<Val>5-1</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>5</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>save data to file</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>save data to file</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>5</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump2 dispense</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume (킠), flow rate (킠/s), hold all (0/1)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1000,200,1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>dispense</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>5</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>7</Dimsize>
+<String>
+<Name></Name>
+<Val>COV-6 go to waste</Val>
+</String>
+<String>
+<Name></Name>
+<Val>COV-6</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>port #</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>go to port</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1-1</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>5</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump1 dispense</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump1</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume (킠), flow rate (킠/s), hold all (0/1)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1000,200,1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>dispense</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>5</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>7</Dimsize>
+<String>
+<Name></Name>
+<Val>COV-6 go to FC</Val>
+</String>
+<String>
+<Name></Name>
+<Val>COV-6</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>port #</Val>
+</String>
+<String>
+<Name></Name>
+<Val>2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>go to port</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1-1</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>5</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump2 dispense</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume (킠), flow rate (킠/s), hold all (0/1)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1000,200,1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>dispense</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>5</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector stop acquire</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>stop acquire</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>5</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>DATA_PK_Height</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>5</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>7</Dimsize>
+<String>
+<Name></Name>
+<Val>set data window</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>min time (s), max time (s)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>27,32</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set data window</Val>
+</String>
+<String>
+<Name></Name>
+<Val>5-1</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>6</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>7</Dimsize>
+<String>
+<Name></Name>
+<Val>subtract baseline</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>at time (s), data index (optional), feature postfix (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>8</Val>
+</String>
+<String>
+<Name></Name>
+<Val>subtract baseline</Val>
+</String>
+<String>
+<Name></Name>
+<Val>5-1</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>6</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>calc peak height</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>data index (optional), feature postfix (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>calc peak height</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>6</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>7</Dimsize>
+<String>
+<Name></Name>
+<Val>activate table by number</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>table number</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Table_nonBrij</Val>
+</String>
+<String>
+<Name></Name>
+<Val>activate table by number</Val>
+</String>
+<String>
+<Name></Name>
+<Val>0-1</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>6</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>calculate value</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val>StdConc</Val>
+</String>
+<String>
+<Name></Name>
+<Val>value or expression</Val>
+</String>
+<String>
+<Name></Name>
+<Val>(53.2*(600-DilVol(n)))/600</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>6</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>add to calib table</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>standard value</Val>
+</String>
+<String>
+<Name></Name>
+<Val>StdConc</Val>
+</String>
+<String>
+<Name></Name>
+<Val>add to calib table</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>6</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>add to table and meta</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>'entry name', entry value</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'StdConc', StdConc</Val>
+</String>
+<String>
+<Name></Name>
+<Val>add to table and meta</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>6</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>save data to file</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>save data to file</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index  </Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name> Item Indent </Name>
+<Val>6</Val>
+</I32>
+</Cluster>
+</Array>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<Array>
+<Name> seqs </Name>
+<Dimsize>9</Dimsize>
+<String>
+<Name></Name>
+<Val>PMT FC_AUTO_SFC</Val>
+</String>
+<String>
+<Name></Name>
+<Val>AutoSampler</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Sample chanel flush</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Set_Variables</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Analysis</Val>
+</String>
+<String>
+<Name></Name>
+<Val>pFI-Al_PMT</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Flush FC</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Without Brij mixing step</Val>
+</String>
+<String>
+<Name></Name>
+<Val>DATA_PK_Height</Val>
+</String>
+</Array>
+<Array>
+<Name>steps</Name>
+<Dimsize>30</Dimsize>
+<String>
+<Name></Name>
+<Val>name sample</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Sampler Valve-N go to sample</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Sampler Pump-N turn on</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Sampler Pump-N turn off</Val>
+</String>
+<String>
+<Name></Name>
+<Val>COV-6 go to  Sample</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump2 aspirate</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Go to Waste</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump2 dispense</Val>
+</String>
+<String>
+<Name></Name>
+<Val>initialize std counter</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set diluent flow rate</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set volume diluent</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Go to FC</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump1 dispense</Val>
+</String>
+<String>
+<Name></Name>
+<Val>COV-6 go to Lumo</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump1 aspirate</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector start acquire</Val>
+</String>
+<String>
+<Name></Name>
+<Val>COV-6 go to Waste</Val>
+</String>
+<String>
+<Name></Name>
+<Val>COV-6 go to FC</Val>
+</String>
+<String>
+<Name></Name>
+<Val>save data to file</Val>
+</String>
+<String>
+<Name></Name>
+<Val>COV-6 go to waste</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector stop acquire</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set data window</Val>
+</String>
+<String>
+<Name></Name>
+<Val>subtract baseline</Val>
+</String>
+<String>
+<Name></Name>
+<Val>calc peak height</Val>
+</String>
+<String>
+<Name></Name>
+<Val>activate table by number</Val>
+</String>
+<String>
+<Name></Name>
+<Val>calculate value</Val>
+</String>
+<String>
+<Name></Name>
+<Val>add to calib table</Val>
+</String>
+<String>
+<Name></Name>
+<Val>add to table and meta</Val>
+</String>
+</Array>
+</Cluster>
+</LVData>
