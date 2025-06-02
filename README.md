@@ -46,6 +46,7 @@ If you use or adapt these files, please cite:
 
 Questions or suggestions? Please contact:  
 **Maxime Grand** – maxime.grand@sjsu.edu
+**Mariko Hatta** – mhatta@hawaii.edu
 
 ---
 
