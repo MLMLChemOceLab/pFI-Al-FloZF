@@ -46,3 +46,19 @@ If you use or adapt these files, please cite:
 
 Questions or suggestions? Please contact:  
 **Maxime Grand** – maxime.grand@sjsu.edu
+
+---
+
+## 📄 License
+
+The sequence and configuration files in this repository are licensed under the  
+[Creative Commons Attribution 4.0 International License (CC-BY 4.0)](LICENSE).
+
+This means you are free to **reuse, adapt, and redistribute** the content, **with attribution** to the original authors.
+
+Please note:
+- These files are designed specifically for use with the **FloZF software**, developed by **GlobalFIA**.
+- FloZF is **proprietary and not open-source**. You must have a valid FloZF license to run these files.
+- For software access or licensing inquiries, contact:  
+  👉 [https://www.globalfia.com](https://www.globalfia.com)
+
