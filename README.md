@@ -15,7 +15,7 @@ The method uses lumogallion fluorescence detection and includes sequences optimi
   → Sequence file optimized for **low-Al seawater (open ocean)**. Includes **Brij** to enhance fluorescence and includes autocalibration routine using a single Al standard prepared in ultrapure water. 
 
 - `Grand&Hatta_NoBrij_FloZF_sequencefile.xml`  
-  → Sequence file for **high-Al samples (>400 nM)**. Brij is excluded to avoid signal saturation (note: for high accuracy best to prepared standard manually in low Al seawater, see manuscript for details). 
+  → Sequence file for **high-Al samples (>400 nM)**. Brij is excluded to avoid signal saturation (note: for high accuracy best to prepare Al standard manually in low Al seawater, see manuscript for details). 
 
 - `devices.xml`  
   → Defines MiniSIA-2 hardware configuration (valves, pumps, etc.).
@@ -54,19 +54,19 @@ Place the `.xml` sequence files into the `sequences` folder within your FloZF pr
 
 ---
 
-## 🧰 Instrument Setup (Used for Method Development)
+## 🧰 Summary of Instrument Setup
 
 | Component          | Specification                               |
 |-------------------|----------------------------------------------|
 | Analyzer          | MiniSIA-2 (GlobalFIA)                        |
-| Detection         | Lumogallion fluorescence assay               |
-| Excitation Source | 470 nm LED                                   |
-| Emission Filter   | 530 nm bandpass                              |
+| Assay             | Lumogallion fluorescence assay               |
+| Excitation        | 475 nm CREEXPE2-BLU-1 LED                    |
+| Detection         | SensTech photon counter, 550±25 nm bandpass  |
 | Holding Coils     | 1350 µL PTFE, 0.8 mm ID                      |
 | Carrier/Reagents  | As described in manuscript                   |
 | Software          | FloZF (Windows only, commercial license)     |
 
-Refer to the manuscript for reagent formulations, segment timing, and additional validation details.
+Refer to the manuscript for reagent formulations, timing, and more details.
 
 ---
 
