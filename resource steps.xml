@@ -1,0 +1,5672 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>23.1f272</Version>
+<String>
+<Name>version</Name>
+<Val>5.2</Val>
+</String>
+<Array>
+<Name>Array</Name>
+<Dimsize>150</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>beep</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>time (ms), frequency (Hz)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1000, 1000</Val>
+</String>
+<String>
+<Name></Name>
+<Val>beep</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>call by ref</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>'sequence name','conditions'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'Load Bubbles','while:vol&lt;200'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>call by ref</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>comment</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val>comment</Val>
+</String>
+<String>
+<Name></Name>
+<Val>comment</Val>
+</String>
+<String>
+<Name></Name>
+<Val>comment</Val>
+</String>
+<String>
+<Name></Name>
+<Val>comment</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>get date in seconds</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val>dt_s</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>get date in seconds</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>get date stamp</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val>dt_stmp</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>get date stamp</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>get time stamp</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>get time stamp</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>master command</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>'device name', 'device command', param1, param2, param3</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'pump','slew',20</Val>
+</String>
+<String>
+<Name></Name>
+<Val>master command</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>prompt for expression</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val>ports_vector</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'message to user'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'Enter the port values'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>prompt for expression</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>prompt for number</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val>port_number</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'message to user','button text'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'Enter the port number'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>prompt for number</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>prompt for options</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val>logic_vector</Val>
+</String>
+<String>
+<Name></Name>
+<Val>options text vector, exclusive? (0 or 1), message</Val>
+</String>
+<String>
+<Name></Name>
+<Val>['option 1','option 2','option 3'],1,'your options are'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>prompt for options</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>prompt for string</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val>file_name</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'message to user','button text'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'Enter the file name'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>prompt for string</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>prompt user</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>'message to user'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'Continue?'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>prompt user</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>send to user interface</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>'text'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'text'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>send to user interface</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>set</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val>ports_vector</Val>
+</String>
+<String>
+<Name></Name>
+<Val>value or expression</Val>
+</String>
+<String>
+<Name></Name>
+<Val>[2 3 6 7]</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>time (s)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>10</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>wait on user interface</Val>
+</String>
+<String>
+<Name></Name>
+<Val>System</Val>
+</String>
+<String>
+<Name></Name>
+<Val>text</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'text'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait on user interface</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>Excel</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>activate/load excel file</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Excel</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>file name, minimized (0/1 optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'temp data.xls', 0</Val>
+</String>
+<String>
+<Name></Name>
+<Val>activate/load excel file</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>add hyperlink</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Excel</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>sheet #, start row #, start col, filename, text to display</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1,1,1, 'temp plot.xls', 'my data'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>add hyperlink</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>browse to activate excel file</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Excel</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>default file name, minimized (0/1 optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'temp data.xls', 0</Val>
+</String>
+<String>
+<Name></Name>
+<Val>browse to activate excel file</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>close excel file reference</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Excel</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>close excel file reference</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>copy excel file</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Excel</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>original file name, duplicate file name</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'temp 1.xls','temp 2,xls'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>copy excel file</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>create &amp; activate excel file</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Excel</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>file name, minimized (0/1 optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'temp data.xls', 0</Val>
+</String>
+<String>
+<Name></Name>
+<Val>create &amp; activate excel file</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>read number</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Excel</Val>
+</String>
+<String>
+<Name></Name>
+<Val>number</Val>
+</String>
+<String>
+<Name></Name>
+<Val>sheet #, row #, col</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1,1,1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>read number</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>read number array</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Excel</Val>
+</String>
+<String>
+<Name></Name>
+<Val>number array</Val>
+</String>
+<String>
+<Name></Name>
+<Val>sheet #, start row #, start col, end row #, end col</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1,1,1,10,3</Val>
+</String>
+<String>
+<Name></Name>
+<Val>read number array</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>read string</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Excel</Val>
+</String>
+<String>
+<Name></Name>
+<Val>string</Val>
+</String>
+<String>
+<Name></Name>
+<Val>sheet #, row #, col</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1,1,1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>read string</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>read string array</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Excel</Val>
+</String>
+<String>
+<Name></Name>
+<Val>string array</Val>
+</String>
+<String>
+<Name></Name>
+<Val>sheet #, start row #, start col, end row #, end col</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1,1,1,10,3</Val>
+</String>
+<String>
+<Name></Name>
+<Val>read string array</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>save excel file</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Excel</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>save excel file</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>set cells background color</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Excel</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>sheet #, start row #, start col, end row #, end col, color ('no','w','r','g','b')</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1,1,1,10,3,'g'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set cells background color</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>write to excel</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Excel</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>sheet #, start row #, start col, data/string</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1,1,1, data</Val>
+</String>
+<String>
+<Name></Name>
+<Val>write to excel</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>activate table by name</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>'table name'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'calibration table'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>activate table by name</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>activate table by number</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>table number</Val>
+</String>
+<String>
+<Name></Name>
+<Val>3</Val>
+</String>
+<String>
+<Name></Name>
+<Val>activate table by number</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>add to calib table</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>standard value</Val>
+</String>
+<String>
+<Name></Name>
+<Val>.001</Val>
+</String>
+<String>
+<Name></Name>
+<Val>add to calib table</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>add to table and meta</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>'entry name', entry value</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'peak start', 5.2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>add to table and meta</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>boxcar average</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>boxcar width</Val>
+</String>
+<String>
+<Name></Name>
+<Val>4</Val>
+</String>
+<String>
+<Name></Name>
+<Val>boxcar average</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>calc peak area</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>data index (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>calc peak area</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>calc peak average</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>data index (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>calc peak average</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>calc peak height</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>data index (optional), return peak time/index (0 or 1 optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>calc peak height</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>calc profile minimum</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>data index (optional), return min time/index (0 or 1 optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>calc profile minimum</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>calc slope and intercept</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>data index (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>calc slope and intercept</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>calc value</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>dilution factor</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>calc value</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>clear calib table</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>clear calib table</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>increment index</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>increment index</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>make plot active</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>'plot name'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'sample.raw_15'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>make plot active</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>name sample</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>'sample name'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'sample'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>name sample</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>prompt for sample name</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>prompt for sample name</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>regression fit</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>polynomial order</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>regression fit</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>save data to file</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>save data to file</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>set data window</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>min time (s), max time (s)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>0,Inf</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set data window</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>subtract baseline</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Data</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>at time (s), data index (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>subtract baseline</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>Spec</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Spec autotune</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Spec</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>autotune</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Spec bounded wait till</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Spec</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>lower criteria, upper criteria, timeout (s), confirm (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Signal&lt;=-10, Signal&gt;=10,100</Val>
+</String>
+<String>
+<Name></Name>
+<Val>bounded wait till</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Spec bundle data</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Spec</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>bundle data</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Spec clear data</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Spec</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>clear data</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Spec get dark spectrum</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Spec</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>get dark spectrum</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Spec get data point</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Spec</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>get data point</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Spec get reference spectrum</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Spec</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>get reference spectrum</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Spec get spectrum</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Spec</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>get spectrum</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Spec set acq paramaters</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Spec</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>intg time (탎), avgs (optional), box car (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>10000,10,10</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set acq paramaters</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Spec set formulas</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Spec</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>formula array (S), colors array (D)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>formula_array,colors_array</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set formulas</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Spec set wavelengths</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Spec</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>wavelengths (nm)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>640,780</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set wavelengths</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Spec start acquire</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Spec</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>request period (seconds), pts to average (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>0.5</Val>
+</String>
+<String>
+<Name></Name>
+<Val>start acquire</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Spec stop acquire</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Spec</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>stop acquire</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Spec turn strobe off</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Spec</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>turn strobe off</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Spec turn strobe on</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Spec</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>turn strobe on</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Spec wait till</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Spec</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>criteria (varibales are Signal and Max), timeout (s), confirm (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Signal&gt;=20,100</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait till</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump1</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump1 aspirate</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump1</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume (킠), flow rate (킠/s), hold all (0/1)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>20,5,1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>aspirate</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump1 check if moving</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>mov</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>check if moving</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump1 dispense</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump1</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume (킠), flow rate (킠/s), hold all (0/1)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>20,5,1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>dispense</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump1 get life data</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>life_data_D</Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume limit  (킠) (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>get life data</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump1 home</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump1</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>(+/-) flow rate (킠/s)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>20</Val>
+</String>
+<String>
+<Name></Name>
+<Val>home</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump1 save life data</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump1</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>save life data</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump1 slew</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump1</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>(+/-) flow rate (킠/s)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>20</Val>
+</String>
+<String>
+<Name></Name>
+<Val>slew</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump1 stop</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>vol</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>stop</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump2</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump2 aspirate</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume (킠), flow rate (킠/s), hold all (0/1)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>20,5,1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>aspirate</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump2 check if moving</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>mov</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>check if moving</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump2 dispense</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume (킠), flow rate (킠/s), hold all (0/1)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>20,5,1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>dispense</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump2 get life data</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>life_data_D</Val>
+</String>
+<String>
+<Name></Name>
+<Val>volume limit  (킠) (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>get life data</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump2 home</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>(+/-) flow rate (킠/s)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>20</Val>
+</String>
+<String>
+<Name></Name>
+<Val>home</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump2 save life data</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>save life data</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump2 slew</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>(+/-) flow rate (킠/s)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>20</Val>
+</String>
+<String>
+<Name></Name>
+<Val>slew</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Pump2 stop</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Pump2</Val>
+</String>
+<String>
+<Name></Name>
+<Val>vol</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>stop</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>COV-6</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>COV-6 get life data</Val>
+</String>
+<String>
+<Name></Name>
+<Val>COV-6</Val>
+</String>
+<String>
+<Name></Name>
+<Val>life_data_D</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>get life data</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>COV-6 go to port</Val>
+</String>
+<String>
+<Name></Name>
+<Val>COV-6</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>port #</Val>
+</String>
+<String>
+<Name></Name>
+<Val>6</Val>
+</String>
+<String>
+<Name></Name>
+<Val>go to port</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>COV-6 initialize</Val>
+</String>
+<String>
+<Name></Name>
+<Val>COV-6</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>initialize</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>LED</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>LED turn off</Val>
+</String>
+<String>
+<Name></Name>
+<Val>LED</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>turn off</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>LED turn on</Val>
+</String>
+<String>
+<Name></Name>
+<Val>LED</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>turn on</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>W-Xe</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>W-Xe turn off</Val>
+</String>
+<String>
+<Name></Name>
+<Val>W-Xe</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>turn off</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>W-Xe turn on</Val>
+</String>
+<String>
+<Name></Name>
+<Val>W-Xe</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>turn on</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>Terminal</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Terminal gen command</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Terminal</Val>
+</String>
+<String>
+<Name></Name>
+<Val>text</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'command string', wait time (ms) (optional), read time (ms) (optional), req resp 0/1 (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'&lt;LF&gt;APR MV&lt;CR&gt;&lt;LF&gt;'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>gen command</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Terminal prompt for number</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Terminal</Val>
+</String>
+<String>
+<Name></Name>
+<Val>number</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'command string', wait time (ms) (optional), read time (ms) (optional), req resp 0/1 (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>'&lt;LF&gt;APR MV&lt;CR&gt;&lt;LF&gt;'</Val>
+</String>
+<String>
+<Name></Name>
+<Val>prompt for number</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater1</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater1 finish tracking</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater1</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>finish tracking</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater1 hold at current track</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater1</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>hold at current track</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater1 return to track</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater1</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>return to track</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater1 specify setpoint</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater1</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>temperature (C)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>23.5</Val>
+</String>
+<String>
+<Name></Name>
+<Val>specify setpoint</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater1 start track down</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater1</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>start temp (C), cooling start time (min), cool rate (C/min), update rate(s)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>70, 60, 1,5</Val>
+</String>
+<String>
+<Name></Name>
+<Val>start track down</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater1 wait until steady</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater1</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>tolerance (C), timeout (min or -1 for no timeout)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1,-1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait until steady</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater2</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater2 finish tracking</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>finish tracking</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater2 hold at current track</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>hold at current track</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater2 return to track</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>return to track</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater2 specify setpoint</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>temperature (C)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>23.5</Val>
+</String>
+<String>
+<Name></Name>
+<Val>specify setpoint</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater2 start track down</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>start temp (C), cooling start time (min), cool rate (C/min), update rate(s)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>70, 60, 1,5</Val>
+</String>
+<String>
+<Name></Name>
+<Val>start track down</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater2 wait until steady</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater2</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>tolerance (C), timeout (min or -1 for no timeout)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>1,-1</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait until steady</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater1 Monitor</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater1 Monitor bounded wait till</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater1 Monitor</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>lower criteria, upper criteria, timeout (s), confirm (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Signal&lt;=-10, Signal&gt;=10,100</Val>
+</String>
+<String>
+<Name></Name>
+<Val>bounded wait till</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater1 Monitor bundle data</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater1 Monitor</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>bundle data</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater1 Monitor clear data</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater1 Monitor</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>clear data</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater1 Monitor get data point</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater1 Monitor</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>get data point</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater1 Monitor set formulas</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater1 Monitor</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>formula array (S), colors array (D)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>formula_array,colors_array</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set formulas</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater1 Monitor start acquire</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater1 Monitor</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>request period (seconds), pts to average (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>0.5</Val>
+</String>
+<String>
+<Name></Name>
+<Val>start acquire</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater1 Monitor stop acquire</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater1 Monitor</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>stop acquire</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater1 Monitor wait till</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater1 Monitor</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>criteria (varibales are Signal and Max), timeout (s), confirm (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Signal&gt;=20,100</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait till</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater2 Monitor</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater2 Monitor bounded wait till</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater2 Monitor</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>lower criteria, upper criteria, timeout (s), confirm (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Signal&lt;=-10, Signal&gt;=10,100</Val>
+</String>
+<String>
+<Name></Name>
+<Val>bounded wait till</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater2 Monitor bundle data</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater2 Monitor</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>bundle data</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater2 Monitor clear data</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater2 Monitor</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>clear data</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater2 Monitor get data point</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater2 Monitor</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>get data point</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater2 Monitor set formulas</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater2 Monitor</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>formula array (S), colors array (D)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>formula_array,colors_array</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set formulas</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater2 Monitor start acquire</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater2 Monitor</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>request period (seconds), pts to average (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>0.5</Val>
+</String>
+<String>
+<Name></Name>
+<Val>start acquire</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater2 Monitor stop acquire</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater2 Monitor</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>stop acquire</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Heater2 Monitor wait till</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Heater2 Monitor</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>criteria (varibales are Signal and Max), timeout (s), confirm (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Signal&gt;=20,100</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait till</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector bounded wait till</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>lower criteria, upper criteria, timeout (s), confirm (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Signal&lt;=-10, Signal&gt;=10,100</Val>
+</String>
+<String>
+<Name></Name>
+<Val>bounded wait till</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector bundle data</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>bundle data</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector clear data</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>clear data</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector get data point</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>get data point</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector set formulas</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>formula array (S), colors array (D)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>formula_array,colors_array</Val>
+</String>
+<String>
+<Name></Name>
+<Val>set formulas</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector start acquire</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>request period (seconds), pts to average (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>0.5</Val>
+</String>
+<String>
+<Name></Name>
+<Val>start acquire</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector stop acquire</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>stop acquire</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector turn off high-voltage</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>turn off high-voltage</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector turn on high-voltage</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>turn on high-voltage</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector wait till</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Fluorescence Detector</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>criteria (varibales are Signal and Max), timeout (s), confirm (optional)</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Signal&gt;=20,100</Val>
+</String>
+<String>
+<Name></Name>
+<Val>wait till</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>Sampler Valve-N</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Sampler Valve-N get life data</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Sampler Valve-N</Val>
+</String>
+<String>
+<Name></Name>
+<Val>life_data_D</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>get life data</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Sampler Valve-N go to port</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Sampler Valve-N</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>port #</Val>
+</String>
+<String>
+<Name></Name>
+<Val>6</Val>
+</String>
+<String>
+<Name></Name>
+<Val>go to port</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Sampler Valve-N initialize</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Sampler Valve-N</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>initialize</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>1</Dimsize>
+<String>
+<Name></Name>
+<Val>Sampler Pump-N</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Sampler Pump-N turn off</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Sampler Pump-N</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>turn off</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Child Text</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Sampler Pump-N turn on</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Sampler Pump-N</Val>
+</String>
+<String>
+<Name></Name>
+<Val></Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>N/A</Val>
+</String>
+<String>
+<Name></Name>
+<Val>turn on</Val>
+</String>
+</Array>
+<I32>
+<Name>Glyph Index</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Item Indent</Name>
+<Val>1</Val>
+</I32>
+</Cluster>
+</Array>
+</LVData>

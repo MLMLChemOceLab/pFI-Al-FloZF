@@ -1,0 +1,633 @@
+MAN-SFC-NoBrij_10sec
+ 03-11-2025  09:17:52 AM	2	set_Table_for_nonBrij	Table_nonBrij	System	set	19
+
+ 03-11-2025  09:17:52 AM	4	set_LumoConc	LumoConc	System	set	100
+
+ 03-11-2025  09:17:52 AM	5	set_BrijConc	BrijConc	System	set	2.500000
+
+ 03-11-2025  09:17:52 AM	6	set_waiting time for Lumo incubation	IncuTime_Lumo	System	set	45
+
+ 03-11-2025  09:17:52 AM	7	set_Lumo dilution_vol	dil_vol_Lumo	System	set	475
+
+ 03-11-2025  09:17:52 AM	8	set_Lumo dilution_flowrate	dil_flowrate_Lumo	System	set	95
+
+ 03-11-2025  09:17:52 AM	9	set_SFC_pushing_vol	SFC_vol	System	set	300
+
+ 03-11-2025  09:17:52 AM	10	set_SFC_pushing_flowrate	SFC_flowrate	System	set	25
+
+ 03-11-2025  09:17:52 AM	11	set_waiting time for SFC	IncuTime_SFC	System	set	120
+
+ 03-11-2025  09:17:52 AM	13	name sample		Data	name sample	SW Std0_SFC-NoBrij
+
+ 03-11-2025  09:17:52 AM	15	set_autosampler_port_number	Auto_ports	System	set	7
+
+ 03-11-2025  09:17:52 AM	17	Sampler Valve-N go to sample		Sampler Valve-N	go to port	7
+
+ 03-11-2025  09:17:53 AM	19	Sampler Pump-N turn on		Sampler Pump-N	turn on	NA
+
+ 03-11-2025  09:17:53 AM	20	wait		System	wait	3
+
+ 03-11-2025  09:17:56 AM	21	Sampler Pump-N turn off		Sampler Pump-N	turn off	NA
+
+ 03-11-2025  09:17:56 AM	23	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:17:57 AM	24	Pump2 aspirate		Pump2	aspirate	500	100	1
+
+ 03-11-2025  09:18:02 AM	25	Go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:18:04 AM	26	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:18:10 AM	27	wait		System	wait	5
+
+ 03-11-2025  09:18:15 AM	23	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:18:16 AM	24	Pump2 aspirate		Pump2	aspirate	500	100	1
+
+ 03-11-2025  09:18:22 AM	25	Go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:18:23 AM	26	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:18:29 AM	27	wait		System	wait	5
+
+ 03-11-2025  09:18:34 AM	23	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:18:35 AM	24	Pump2 aspirate		Pump2	aspirate	500	100	1
+
+ 03-11-2025  09:18:41 AM	25	Go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:18:42 AM	26	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:18:48 AM	27	wait		System	wait	5
+
+ 03-11-2025  09:18:53 AM	31	Go to FC		COV-6	go to port	2
+
+ 03-11-2025  09:18:54 AM	32	Pump1 dispense		Pump1	dispense	1000	200	1
+
+ 03-11-2025  09:19:00 AM	33	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:19:06 AM	34	wait		System	wait	5
+
+ 03-11-2025  09:19:11 AM	35	wait		System	wait	2
+
+ 03-11-2025  09:19:13 AM	36	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:19:14 AM	37	Pump2 aspirate		Pump2	aspirate	600	120	1
+
+ 03-11-2025  09:19:19 AM	38	wait		System	wait	2
+
+ 03-11-2025  09:19:21 AM	39	COV-6 go to Lumo		COV-6	go to port	3
+
+ 03-11-2025  09:19:22 AM	40	Pump1 aspirate		Pump1	aspirate	600	120	0
+
+ 03-11-2025  09:19:22 AM	41	Pump2 dispense		Pump2	dispense	475	95	1
+
+ 03-11-2025  09:19:28 AM	42	wait		System	wait	45
+
+ 03-11-2025  09:20:13 AM	43	Fluorescence Detector start acquire		Fluorescence Detector	start acquire	0.500000
+
+ 03-11-2025  09:20:13 AM	44	COV-6 go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:20:14 AM	45	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:20:20 AM	46	wait		System	wait	5
+
+ 03-11-2025  09:20:25 AM	48	COV-6 go to FC		COV-6	go to port	2
+
+ 03-11-2025  09:20:26 AM	49	Pump1 dispense		Pump1	dispense	300	25	1
+
+ 03-11-2025  09:20:39 AM	50	wait		System	wait	120
+
+ 03-11-2025  09:22:39 AM	51	save data to file		Data	save data to file	NA
+
+ 03-11-2025  09:22:39 AM	52	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:22:45 AM	53	COV-6 go to waste		COV-6	go to port	1
+
+ 03-11-2025  09:22:46 AM	54	Pump1 dispense		Pump1	dispense	1000	200	1
+
+ 03-11-2025  09:22:52 AM	55	COV-6 go to FC		COV-6	go to port	2
+
+ 03-11-2025  09:22:52 AM	56	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:22:58 AM	57	Fluorescence Detector stop acquire		Fluorescence Detector	stop acquire	NA
+
+ 03-11-2025  09:22:59 AM	59	set data window		Data	set data window	27	32
+
+ 03-11-2025  09:22:59 AM	60	subtract baseline		Data	subtract baseline	8
+
+ 03-11-2025  09:22:59 AM	61	calc peak height		Data	calc peak height	1
+
+ 03-11-2025  09:22:59 AM	62	activate table by number		Data	activate table by number	19
+
+ 03-11-2025  09:22:59 AM	63	add to calib table		Data	add to calib table	0
+
+ 03-11-2025  09:22:59 AM	64	add to table and meta		Data	add to table and meta	LumoConc	100
+
+ 03-11-2025  09:22:59 AM	65	add to table and meta		Data	add to table and meta	Auto_ports	7
+
+ 03-11-2025  09:22:59 AM	66	add to table and meta		Data	add to table and meta	IncuTime_Lumo	45
+
+ 03-11-2025  09:22:59 AM	67	add to table and meta		Data	add to table and meta	dil_vol_Lumo	475
+
+ 03-11-2025  09:22:59 AM	68	add to table and meta		Data	add to table and meta	dil_flowrate_Lumo	95
+
+ 03-11-2025  09:22:59 AM	69	add to table and meta		Data	add to table and meta	SFC_vol	300
+
+ 03-11-2025  09:22:59 AM	70	add to table and meta		Data	add to table and meta	SFC_flowrate	25
+
+ 03-11-2025  09:22:59 AM	71	add to table and meta		Data	add to table and meta	Table	19
+
+ 03-11-2025  09:22:59 AM	72	add to table and meta		Data	add to table and meta	IncuTime_SFC	120
+
+ 03-11-2025  09:22:59 AM	73	save data to file		Data	save data to file	NA
+
+ 03-11-2025  09:22:59 AM	75	name sample		Data	name sample	SWStd1_SFC-NoBrij
+
+ 03-11-2025  09:22:59 AM	77	set_autosampler_port_number	Auto_ports	System	set	8
+
+ 03-11-2025  09:22:59 AM	79	Sampler Valve-N go to sample		Sampler Valve-N	go to port	8
+
+ 03-11-2025  09:23:00 AM	81	Sampler Pump-N turn on		Sampler Pump-N	turn on	NA
+
+ 03-11-2025  09:23:00 AM	82	wait		System	wait	3
+
+ 03-11-2025  09:23:03 AM	83	Sampler Pump-N turn off		Sampler Pump-N	turn off	NA
+
+ 03-11-2025  09:23:03 AM	85	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:23:04 AM	86	Pump2 aspirate		Pump2	aspirate	500	100	1
+
+ 03-11-2025  09:23:10 AM	87	Go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:23:11 AM	88	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:23:17 AM	89	wait		System	wait	5
+
+ 03-11-2025  09:23:22 AM	85	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:23:23 AM	86	Pump2 aspirate		Pump2	aspirate	500	100	1
+
+ 03-11-2025  09:23:29 AM	87	Go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:23:30 AM	88	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:23:36 AM	89	wait		System	wait	5
+
+ 03-11-2025  09:23:41 AM	85	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:23:42 AM	86	Pump2 aspirate		Pump2	aspirate	500	100	1
+
+ 03-11-2025  09:23:48 AM	87	Go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:23:49 AM	88	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:23:55 AM	89	wait		System	wait	5
+
+ 03-11-2025  09:24:00 AM	93	Go to FC		COV-6	go to port	2
+
+ 03-11-2025  09:24:01 AM	94	Pump1 dispense		Pump1	dispense	1000	200	1
+
+ 03-11-2025  09:24:07 AM	95	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:24:13 AM	96	wait		System	wait	5
+
+ 03-11-2025  09:24:18 AM	97	wait		System	wait	2
+
+ 03-11-2025  09:24:20 AM	98	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:24:21 AM	99	Pump2 aspirate		Pump2	aspirate	600	120	1
+
+ 03-11-2025  09:24:27 AM	100	wait		System	wait	2
+
+ 03-11-2025  09:24:29 AM	101	COV-6 go to Lumo		COV-6	go to port	3
+
+ 03-11-2025  09:24:29 AM	102	Pump1 aspirate		Pump1	aspirate	600	120	0
+
+ 03-11-2025  09:24:30 AM	103	Pump2 dispense		Pump2	dispense	475	95	1
+
+ 03-11-2025  09:24:35 AM	104	wait		System	wait	45
+
+ 03-11-2025  09:25:21 AM	105	Fluorescence Detector start acquire		Fluorescence Detector	start acquire	0.500000
+
+ 03-11-2025  09:25:21 AM	106	COV-6 go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:25:22 AM	107	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:25:27 AM	108	wait		System	wait	5
+
+ 03-11-2025  09:25:32 AM	110	COV-6 go to FC		COV-6	go to port	2
+
+ 03-11-2025  09:25:33 AM	111	Pump1 dispense		Pump1	dispense	300	25	1
+
+ 03-11-2025  09:25:46 AM	112	wait		System	wait	120
+
+ 03-11-2025  09:27:46 AM	113	save data to file		Data	save data to file	NA
+
+ 03-11-2025  09:27:46 AM	114	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:27:52 AM	115	COV-6 go to waste		COV-6	go to port	1
+
+ 03-11-2025  09:27:53 AM	116	Pump1 dispense		Pump1	dispense	1000	200	1
+
+ 03-11-2025  09:27:59 AM	117	COV-6 go to FC		COV-6	go to port	2
+
+ 03-11-2025  09:28:00 AM	118	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:28:05 AM	119	Fluorescence Detector stop acquire		Fluorescence Detector	stop acquire	NA
+
+ 03-11-2025  09:28:06 AM	121	set data window		Data	set data window	27	32
+
+ 03-11-2025  09:28:06 AM	122	subtract baseline		Data	subtract baseline	8
+
+ 03-11-2025  09:28:06 AM	123	calc peak height		Data	calc peak height	1
+
+ 03-11-2025  09:28:06 AM	124	activate table by number		Data	activate table by number	19
+
+ 03-11-2025  09:28:06 AM	125	add to calib table		Data	add to calib table	13.300000
+
+ 03-11-2025  09:28:06 AM	126	add to table and meta		Data	add to table and meta	LumoConc	100
+
+ 03-11-2025  09:28:06 AM	127	add to table and meta		Data	add to table and meta	Auto_ports	8
+
+ 03-11-2025  09:28:06 AM	128	add to table and meta		Data	add to table and meta	IncuTime_Lumo	45
+
+ 03-11-2025  09:28:06 AM	129	add to table and meta		Data	add to table and meta	dil_vol_Lumo	475
+
+ 03-11-2025  09:28:06 AM	130	add to table and meta		Data	add to table and meta	dil_flowrate_Lumo	95
+
+ 03-11-2025  09:28:06 AM	131	add to table and meta		Data	add to table and meta	SFC_vol	300
+
+ 03-11-2025  09:28:06 AM	132	add to table and meta		Data	add to table and meta	SFC_flowrate	25
+
+ 03-11-2025  09:28:06 AM	133	add to table and meta		Data	add to table and meta	Table	19
+
+ 03-11-2025  09:28:06 AM	134	add to table and meta		Data	add to table and meta	IncuTime_SFC	120
+
+ 03-11-2025  09:28:06 AM	135	save data to file		Data	save data to file	NA
+
+ 03-11-2025  09:28:06 AM	137	name sample		Data	name sample	SW Std2_SFC-NoBrij
+
+ 03-11-2025  09:28:06 AM	139	set_autosampler_port_number	Auto_ports	System	set	9
+
+ 03-11-2025  09:28:06 AM	141	Sampler Valve-N go to sample		Sampler Valve-N	go to port	9
+
+ 03-11-2025  09:28:07 AM	143	Sampler Pump-N turn on		Sampler Pump-N	turn on	NA
+
+ 03-11-2025  09:28:07 AM	144	wait		System	wait	3
+
+ 03-11-2025  09:28:10 AM	145	Sampler Pump-N turn off		Sampler Pump-N	turn off	NA
+
+ 03-11-2025  09:28:10 AM	147	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:28:11 AM	148	Pump2 aspirate		Pump2	aspirate	500	100	1
+
+ 03-11-2025  09:28:17 AM	149	Go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:28:18 AM	150	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:28:24 AM	147	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:28:25 AM	148	Pump2 aspirate		Pump2	aspirate	500	100	1
+
+ 03-11-2025  09:28:31 AM	149	Go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:28:32 AM	150	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:28:38 AM	147	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:28:40 AM	148	Pump2 aspirate		Pump2	aspirate	500	100	1
+
+ 03-11-2025  09:28:45 AM	149	Go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:28:47 AM	150	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:28:52 AM	154	Go to FC		COV-6	go to port	2
+
+ 03-11-2025  09:28:53 AM	155	Pump1 dispense		Pump1	dispense	1000	200	1
+
+ 03-11-2025  09:28:59 AM	156	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:29:05 AM	157	wait		System	wait	5
+
+ 03-11-2025  09:29:10 AM	158	wait		System	wait	2
+
+ 03-11-2025  09:29:12 AM	159	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:29:13 AM	160	Pump2 aspirate		Pump2	aspirate	600	120	1
+
+ 03-11-2025  09:29:19 AM	161	wait		System	wait	2
+
+ 03-11-2025  09:29:21 AM	162	COV-6 go to Lumo		COV-6	go to port	3
+
+ 03-11-2025  09:29:22 AM	163	Pump1 aspirate		Pump1	aspirate	600	120	0
+
+ 03-11-2025  09:29:22 AM	164	Pump2 dispense		Pump2	dispense	475	95	1
+
+ 03-11-2025  09:29:28 AM	165	wait		System	wait	45
+
+ 03-11-2025  09:30:13 AM	166	Fluorescence Detector start acquire		Fluorescence Detector	start acquire	0.500000
+
+ 03-11-2025  09:30:13 AM	167	COV-6 go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:30:14 AM	168	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:30:19 AM	169	wait		System	wait	5
+
+ 03-11-2025  09:30:25 AM	171	COV-6 go to FC		COV-6	go to port	2
+
+ 03-11-2025  09:30:25 AM	172	Pump1 dispense		Pump1	dispense	300	25	1
+
+ 03-11-2025  09:30:38 AM	173	wait		System	wait	120
+
+ 03-11-2025  09:32:38 AM	174	save data to file		Data	save data to file	NA
+
+ 03-11-2025  09:32:38 AM	175	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:32:44 AM	176	COV-6 go to waste		COV-6	go to port	1
+
+ 03-11-2025  09:32:45 AM	177	Pump1 dispense		Pump1	dispense	1000	200	1
+
+ 03-11-2025  09:32:51 AM	178	COV-6 go to FC		COV-6	go to port	2
+
+ 03-11-2025  09:32:52 AM	179	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:32:57 AM	180	Fluorescence Detector stop acquire		Fluorescence Detector	stop acquire	NA
+
+ 03-11-2025  09:32:58 AM	182	set data window		Data	set data window	27	32
+
+ 03-11-2025  09:32:58 AM	183	subtract baseline		Data	subtract baseline	8
+
+ 03-11-2025  09:32:58 AM	184	calc peak height		Data	calc peak height	1
+
+ 03-11-2025  09:32:58 AM	185	activate table by number		Data	activate table by number	19
+
+ 03-11-2025  09:32:58 AM	186	add to calib table		Data	add to calib table	26.600000
+
+ 03-11-2025  09:32:58 AM	187	add to table and meta		Data	add to table and meta	LumoConc	100
+
+ 03-11-2025  09:32:58 AM	188	add to table and meta		Data	add to table and meta	Auto_ports	9
+
+ 03-11-2025  09:32:58 AM	189	add to table and meta		Data	add to table and meta	IncuTime_Lumo	45
+
+ 03-11-2025  09:32:58 AM	190	add to table and meta		Data	add to table and meta	dil_vol_Lumo	475
+
+ 03-11-2025  09:32:58 AM	191	add to table and meta		Data	add to table and meta	dil_flowrate_Lumo	95
+
+ 03-11-2025  09:32:58 AM	192	add to table and meta		Data	add to table and meta	SFC_vol	300
+
+ 03-11-2025  09:32:58 AM	193	add to table and meta		Data	add to table and meta	SFC_flowrate	25
+
+ 03-11-2025  09:32:58 AM	194	add to table and meta		Data	add to table and meta	Table	19
+
+ 03-11-2025  09:32:58 AM	195	add to table and meta		Data	add to table and meta	IncuTime_SFC	120
+
+ 03-11-2025  09:32:58 AM	196	save data to file		Data	save data to file	NA
+
+ 03-11-2025  09:32:58 AM	198	name sample		Data	name sample	SW Std3_SFC-NoBrij
+
+ 03-11-2025  09:32:58 AM	200	set_autosampler_port_number	Auto_ports	System	set	10
+
+ 03-11-2025  09:32:58 AM	202	Sampler Valve-N go to sample		Sampler Valve-N	go to port	10
+
+ 03-11-2025  09:32:59 AM	204	Sampler Pump-N turn on		Sampler Pump-N	turn on	NA
+
+ 03-11-2025  09:32:59 AM	205	wait		System	wait	3
+
+ 03-11-2025  09:33:02 AM	206	Sampler Pump-N turn off		Sampler Pump-N	turn off	NA
+
+ 03-11-2025  09:33:02 AM	208	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:33:03 AM	209	Pump2 aspirate		Pump2	aspirate	500	100	1
+
+ 03-11-2025  09:33:09 AM	210	Go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:33:10 AM	211	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:33:16 AM	212	wait		System	wait	5
+
+ 03-11-2025  09:33:21 AM	208	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:33:22 AM	209	Pump2 aspirate		Pump2	aspirate	500	100	1
+
+ 03-11-2025  09:33:28 AM	210	Go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:33:29 AM	211	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:33:35 AM	212	wait		System	wait	5
+
+ 03-11-2025  09:33:40 AM	208	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:33:42 AM	209	Pump2 aspirate		Pump2	aspirate	500	100	1
+
+ 03-11-2025  09:33:47 AM	210	Go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:33:49 AM	211	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:33:54 AM	212	wait		System	wait	5
+
+ 03-11-2025  09:34:00 AM	216	Go to FC		COV-6	go to port	2
+
+ 03-11-2025  09:34:00 AM	217	Pump1 dispense		Pump1	dispense	1000	200	1
+
+ 03-11-2025  09:34:06 AM	218	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:34:12 AM	219	wait		System	wait	5
+
+ 03-11-2025  09:34:17 AM	220	wait		System	wait	2
+
+ 03-11-2025  09:34:19 AM	221	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:34:20 AM	222	Pump2 aspirate		Pump2	aspirate	600	120	1
+
+ 03-11-2025  09:34:26 AM	223	wait		System	wait	2
+
+ 03-11-2025  09:34:28 AM	224	COV-6 go to Lumo		COV-6	go to port	3
+
+ 03-11-2025  09:34:29 AM	225	Pump1 aspirate		Pump1	aspirate	600	120	0
+
+ 03-11-2025  09:34:29 AM	226	Pump2 dispense		Pump2	dispense	475	95	1
+
+ 03-11-2025  09:34:35 AM	227	wait		System	wait	45
+
+ 03-11-2025  09:35:20 AM	228	Fluorescence Detector start acquire		Fluorescence Detector	start acquire	0.500000
+
+ 03-11-2025  09:35:20 AM	229	COV-6 go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:35:21 AM	230	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:35:27 AM	231	wait		System	wait	5
+
+ 03-11-2025  09:35:32 AM	233	COV-6 go to FC		COV-6	go to port	2
+
+ 03-11-2025  09:35:33 AM	234	Pump1 dispense		Pump1	dispense	300	25	1
+
+ 03-11-2025  09:35:46 AM	235	wait		System	wait	120
+
+ 03-11-2025  09:37:46 AM	236	save data to file		Data	save data to file	NA
+
+ 03-11-2025  09:37:46 AM	237	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:37:51 AM	238	COV-6 go to waste		COV-6	go to port	1
+
+ 03-11-2025  09:37:52 AM	239	Pump1 dispense		Pump1	dispense	1000	200	1
+
+ 03-11-2025  09:37:58 AM	240	COV-6 go to FC		COV-6	go to port	2
+
+ 03-11-2025  09:37:59 AM	241	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:38:05 AM	242	Fluorescence Detector stop acquire		Fluorescence Detector	stop acquire	NA
+
+ 03-11-2025  09:38:05 AM	244	set data window		Data	set data window	27	32
+
+ 03-11-2025  09:38:05 AM	245	subtract baseline		Data	subtract baseline	8
+
+ 03-11-2025  09:38:05 AM	246	calc peak height		Data	calc peak height	1
+
+ 03-11-2025  09:38:05 AM	247	activate table by number		Data	activate table by number	19
+
+ 03-11-2025  09:38:05 AM	248	add to calib table		Data	add to calib table	39.900000
+
+ 03-11-2025  09:38:05 AM	249	add to table and meta		Data	add to table and meta	LumoConc	100
+
+ 03-11-2025  09:38:05 AM	250	add to table and meta		Data	add to table and meta	Auto_ports	10
+
+ 03-11-2025  09:38:05 AM	251	add to table and meta		Data	add to table and meta	IncuTime_Lumo	45
+
+ 03-11-2025  09:38:05 AM	252	add to table and meta		Data	add to table and meta	dil_vol_Lumo	475
+
+ 03-11-2025  09:38:05 AM	253	add to table and meta		Data	add to table and meta	dil_flowrate_Lumo	95
+
+ 03-11-2025  09:38:05 AM	254	add to table and meta		Data	add to table and meta	SFC_vol	300
+
+ 03-11-2025  09:38:05 AM	255	add to table and meta		Data	add to table and meta	SFC_flowrate	25
+
+ 03-11-2025  09:38:05 AM	256	add to table and meta		Data	add to table and meta	Table	19
+
+ 03-11-2025  09:38:05 AM	257	add to table and meta		Data	add to table and meta	IncuTime_SFC	120
+
+ 03-11-2025  09:38:05 AM	258	save data to file		Data	save data to file	NA
+
+ 03-11-2025  09:38:06 AM	260	name sample		Data	name sample	SW Std4_SFC-NoBrij
+
+ 03-11-2025  09:38:06 AM	262	set_autosampler_port_number	Auto_ports	System	set	11
+
+ 03-11-2025  09:38:06 AM	264	Sampler Valve-N go to sample		Sampler Valve-N	go to port	11
+
+ 03-11-2025  09:38:06 AM	266	Sampler Pump-N turn on		Sampler Pump-N	turn on	NA
+
+ 03-11-2025  09:38:06 AM	267	wait		System	wait	3
+
+ 03-11-2025  09:38:09 AM	268	Sampler Pump-N turn off		Sampler Pump-N	turn off	NA
+
+ 03-11-2025  09:38:09 AM	270	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:38:10 AM	271	Pump2 aspirate		Pump2	aspirate	500	100	1
+
+ 03-11-2025  09:38:16 AM	272	Go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:38:17 AM	273	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:38:23 AM	274	wait		System	wait	5
+
+ 03-11-2025  09:38:28 AM	270	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:38:30 AM	271	Pump2 aspirate		Pump2	aspirate	500	100	1
+
+ 03-11-2025  09:38:35 AM	272	Go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:38:37 AM	273	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:38:43 AM	274	wait		System	wait	5
+
+ 03-11-2025  09:38:48 AM	270	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:38:49 AM	271	Pump2 aspirate		Pump2	aspirate	500	100	1
+
+ 03-11-2025  09:38:55 AM	272	Go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:38:56 AM	273	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:39:02 AM	274	wait		System	wait	5
+
+ 03-11-2025  09:39:07 AM	278	Go to FC		COV-6	go to port	2
+
+ 03-11-2025  09:39:08 AM	279	Pump1 dispense		Pump1	dispense	1000	200	1
+
+ 03-11-2025  09:39:13 AM	280	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:39:19 AM	281	wait		System	wait	5
+
+ 03-11-2025  09:39:24 AM	282	wait		System	wait	2
+
+ 03-11-2025  09:39:26 AM	283	COV-6 go to  Sample		COV-6	go to port	4
+
+ 03-11-2025  09:39:27 AM	284	Pump2 aspirate		Pump2	aspirate	600	120	1
+
+ 03-11-2025  09:39:33 AM	285	wait		System	wait	2
+
+ 03-11-2025  09:39:35 AM	286	COV-6 go to Lumo		COV-6	go to port	3
+
+ 03-11-2025  09:39:36 AM	287	Pump1 aspirate		Pump1	aspirate	600	120	0
+
+ 03-11-2025  09:39:36 AM	288	Pump2 dispense		Pump2	dispense	475	95	1
+
+ 03-11-2025  09:39:42 AM	289	wait		System	wait	45
+
+ 03-11-2025  09:40:27 AM	290	Fluorescence Detector start acquire		Fluorescence Detector	start acquire	0.500000
+
+ 03-11-2025  09:40:27 AM	291	COV-6 go to Waste		COV-6	go to port	1
+
+ 03-11-2025  09:40:28 AM	292	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:40:34 AM	293	wait		System	wait	5
+
+ 03-11-2025  09:40:39 AM	295	COV-6 go to FC		COV-6	go to port	2
+
+ 03-11-2025  09:40:40 AM	296	Pump1 dispense		Pump1	dispense	300	25	1
+
+ 03-11-2025  09:40:53 AM	297	wait		System	wait	120
+
+ 03-11-2025  09:42:53 AM	298	save data to file		Data	save data to file	NA
+
+ 03-11-2025  09:42:53 AM	299	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:42:59 AM	300	COV-6 go to waste		COV-6	go to port	1
+
+ 03-11-2025  09:42:59 AM	301	Pump1 dispense		Pump1	dispense	1000	200	1
+
+ 03-11-2025  09:43:05 AM	302	COV-6 go to FC		COV-6	go to port	2
+
+ 03-11-2025  09:43:06 AM	303	Pump2 dispense		Pump2	dispense	1000	200	1
+
+ 03-11-2025  09:43:12 AM	304	Fluorescence Detector stop acquire		Fluorescence Detector	stop acquire	NA
+
+ 03-11-2025  09:43:12 AM	306	set data window		Data	set data window	27	32
+
+ 03-11-2025  09:43:12 AM	307	subtract baseline		Data	subtract baseline	8
+
+ 03-11-2025  09:43:12 AM	308	calc peak height		Data	calc peak height	1
+
+ 03-11-2025  09:43:12 AM	309	activate table by number		Data	activate table by number	19
+
+ 03-11-2025  09:43:12 AM	310	add to calib table		Data	add to calib table	53.200000
+
+ 03-11-2025  09:43:12 AM	311	add to table and meta		Data	add to table and meta	LumoConc	100
+
+ 03-11-2025  09:43:13 AM	312	add to table and meta		Data	add to table and meta	Auto_ports	11
+
+ 03-11-2025  09:43:13 AM	313	add to table and meta		Data	add to table and meta	IncuTime_Lumo	45
+
+ 03-11-2025  09:43:13 AM	314	add to table and meta		Data	add to table and meta	dil_vol_Lumo	475
+
+ 03-11-2025  09:43:13 AM	315	add to table and meta		Data	add to table and meta	dil_flowrate_Lumo	95
+
+ 03-11-2025  09:43:13 AM	316	add to table and meta		Data	add to table and meta	SFC_vol	300
+
+ 03-11-2025  09:43:13 AM	317	add to table and meta		Data	add to table and meta	SFC_flowrate	25
+
+ 03-11-2025  09:43:13 AM	318	add to table and meta		Data	add to table and meta	Table	19
+
+ 03-11-2025  09:43:13 AM	319	add to table and meta		Data	add to table and meta	IncuTime_SFC	120
+
+ 03-11-2025  09:43:13 AM	320	save data to file		Data	save data to file	NA
+
